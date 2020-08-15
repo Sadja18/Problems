@@ -1,0 +1,24 @@
+Problem Statement:
+Consider two lists having equal number of are provided: list_a and list_b
+
+Augment list_b to match index changes of items of list_b with index changes of items when list_a is sorted.
+
+Sample Input:
+list_a : [ 2, 1, 4, 3]
+list_b : [a, b, d, c]
+
+Expected Output:
+list_b = [b, a, c, d]
+
+Explanation:
+When list_a is sorted, following index changes occur:
+1 goes from index 1 to index 0,
+2 goes from index 0 to index 1,
+3 goes from index 3 to index 2,
+4 goes from index 2 to index 3.
+
+Therefore, items of list_b will changed as follows:
+item(list_b) at index 1 will be placed at index 0,
+item(list_b) at index 0 will be placed at index 1,
+item(list_b) at index 3 will be placed at index 2,
+item(list_b) at index 2 will be placed at index 3.
