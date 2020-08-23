@@ -1,0 +1,11 @@
+Problem Statement:
+Given an integer N, calculate the sum of odd digits and sum of even digits of N.
+Print sum_of_even_digits and sum_of_odd_digits as a space separrated string.
+
+Sample Input: N = 12345
+Sample Output: 6 9
+Explanation: 
+For N = 12345, 
+Sum of Even Digits = 2 + 4 = 6
+Sum of Odd Digits = 1 + 3 + 5 = 9
+
