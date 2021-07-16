@@ -16,6 +16,6 @@ The vision is to cover as many different types of problem statements as possible
  * Have a different problem statement!
  * Facing errors while trying to run my solutions!   
 
-Feel free to contact me on my website, https://sadja.pythonanywhere.com
+Feel free to contact me on *my website*, https://sadja.pythonanywhere.com
 
 Also, if you have a better solutions for any of the problem statements mentioned here, feel free to contact me about that and I will make sure that your version of the solution is posted along with credit of you; however; I encourage you to not copy and paste solutions mentioned on tutorial websites.
