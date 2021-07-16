@@ -5,7 +5,16 @@ These basic problems seem hard to solve, however, almost every problem has a sol
 
 This repository is focused to provide an idea to the coders/script-kiddies about the algorithm behind the solutions to these problems.
 
-The vision is to cover as many different types of problem statements as possible. 
-If you are having trouble with some programming assignment or you are stuck on problem statement, raise a query on my website https://sadja.pythonanywhere.com and a solution for that problem will be posted as soon as possible.
+The vision is to cover as many different types of problem statements as possible.
+
+#### In case you are stuck on the following:
+ * What is GitHub?
+ * How to use GitHub?
+ * Basics of Python/ OOPs/ Programing.
+ * How to install Python (the programing language used in these solutions).
+ * How to run these programs?
+ * Have a different problem statement!
+ * Facing errors while trying to run my solutions!
+Feel free to contact me on my website, https://sadja.pythonanywhere.com
 
 Also, if you have a better solutions for any of the problem statements mentioned here, feel free to contact me about that and I will make sure that your version of the solution is posted along with credit of you; however; I encourage you to not copy and paste solutions mentioned on tutorial websites.
