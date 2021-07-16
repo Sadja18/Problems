@@ -1,11 +1,11 @@
 # Helper
-A repository to help with the assignments of the coding tests for Python.
 
-Many companies who hire software developers shortlist candidates based on a coding skill assessment round. The problems seem hard to solve however, almost every problem has a solution.
+Many companies who hire software developers shortlist candidates based on a coding skill assessment round. Usually (espcially for beginners), these technical rounds require the candidates to write programs to solve few tasks, namely, number patterns, string patterns, etc.
+These basic problems seem hard to solve, however, almost every problem has a solution.
 
-This repository contains sample solutions to some basic programming assessment assignments. 
-The vision is to cover as many different types of problem statements as possible. If you are having trouble with some programming assignment, raise a query and a solution for that problem will posted as soon as possible.
+This repository is focused to provide an idea to the coders/script-kiddies about the algorithm behind the solutions to these codes
 
-While the codes in this repository are free to use, I would appreciate a credit mention by those who use them. 
-Also, any better solution are welcome.
+The vision is to cover as many different types of problem statements as possible. 
+If you are having trouble with some programming assignment or you are stuck on problem statement, raise a query on my website https://sadja.pythonanywhere.com and a solution for that problem will be posted as soon as possible.
 
+Also, if you have a better solutions for any of the problem statements mentioned here, feel free to contact me about that and I will make sure that your version of the solution is posted along with credit of you; however; I encourage you to not copy and paste solutions mentioned on tutorial websites.
